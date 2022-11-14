@@ -1,0 +1,30 @@
+/* comment */
+
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+.flex-container{
+    display:flex;
+}
+.left{
+    border: 1px;
+    border-style: solid;
+    border-color: brown;
+    height: 50px;
+    width: 50px;
+    background-color: beige;
+    border-radius: 20%;
+    margin-right: 10px;
+}
+
+.right{
+    border: 1px;
+    border-style: solid;
+    border-color: blue;
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+    border-radius: 20%;
+}
+p{
+    font-family: 'Secular One', sans-serif;
+}
